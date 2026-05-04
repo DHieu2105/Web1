@@ -29,6 +29,12 @@ Thumbs.db
 # Project-specific
 Backend/node_modules/
 Backend/.env
-Frontend/node_modules/
-Frontend/build/
-Frontend/dist/
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.next/
+frontend/out/
+frontend/.env*
+frontend/.vercel
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
